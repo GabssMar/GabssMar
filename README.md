@@ -50,3 +50,4 @@
 
 [![Linkedin](https://img.shields.io/badge/-GabrieleMartinez-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriele-martinez-7aa3ab197/)
 [![GitHub](https://img.shields.io/github/followers/GabssMar?label=follow&style=social)](https://github.com/GabssMar)
+[![GitLab](https://img.shields.io/badge/-GitLab-333333?style=flat&logo=gitlab&logoColor=FC6D26)](https://gitlab.com/GabssMar)
